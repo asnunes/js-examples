@@ -1,1 +1,3 @@
-# js-examples \n Some JavaScripts Examples
+# js-examples 
+
+Some JavaScripts Examples
