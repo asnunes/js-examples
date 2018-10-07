@@ -1,6 +1,6 @@
 function interviewQuestion(jog){
     designerQuestion = "What's UX, ";
-    teacherQuestion = "What is teaching for you, "
+    teacherQuestion = "what is teach is for you, "
     generalQuestion = "What do you do, "
     ending = "?"
 
